@@ -3,7 +3,6 @@ We will again practice with CAMs in this repsitory and this time there will only
 
 The output of the model looks like the following:
 
-![image](https://user-images.githubusercontent.com/64538407/112713720-a878a300-8ee7-11eb-9418-7ebeb70b5135.png)
 
 ![image](https://user-images.githubusercontent.com/64538407/112713722-af9fb100-8ee7-11eb-95cb-0d9300f67d77.png)
 
